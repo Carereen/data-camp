@@ -4,7 +4,7 @@ My data science and analytics projects
 ## My personal projects
 
 ### R programming
-  1.data visualization
+  1.data visualization \n
   2. pizza restaurant
   3. bakery
   4. nyc flight 2013
