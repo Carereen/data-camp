@@ -1,4 +1,4 @@
-# Data Science Bootcamp 10
+# Data science bootcamp 10
 My data science and analytics projects
 
 ## My personal projects
@@ -14,15 +14,15 @@ My data science and analytics projects
 ### Sqlite
 * restaurant
 
-### python programming
+### Python programming
 * api
 * atm
 * pandas
 *  pao ying chup game
 * webscraping
 
-### dashboard 
+### Dashboard 
 * category
 
-## contact me
+## Contact me
 reach out to me at piyathidachok@gmail.com
