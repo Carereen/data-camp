@@ -2,13 +2,14 @@
 My data science and analytics projects
 
 ## My personal projects
+
 ### R programming
-1.data visualization
-2. pizza restaurant
-3. bakery
-4. nyc flight 2013
-5. pao ying chub game
-6. titanic
+  1.data visualization
+  2. pizza restaurant
+  3. bakery
+  4. nyc flight 2013
+  5. pao ying chub game
+  6. titanic
 
 ### Sqlite
 1. restaurant
